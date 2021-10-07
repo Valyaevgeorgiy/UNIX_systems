@@ -6,15 +6,18 @@ import os
 print("[INFO] ---- Запуск сервера ----")
 
 sock = socket.socket()
-sock.bind(('', host_num))
+serv_adr = ('', 9090)
 
-print("[INFO] ---- Начало прослушивания порта ----")
+sock.bind(('', 9090))
+
+print(f"[INFO] ---- Начало прослушивания порта {serv_adr[1]} на localhost ----")
 
 sock.listen(1)
-conn, adr = sock.accept()
-
 print("[INFO] ---- Подключение клиента ----")
 print()
+
+conn, adr = sock.accept()
+
 print("[INFO] ----", '\t Установлено соединение с IP', adr, "\t----")
 
 while True: 
@@ -34,5 +37,9 @@ while True:
             print("[INFO] ---- Заканчивается сеанс подключения и начинается выход ----")
             print()
             print("[INFO] ---- Остановка сервера ----")
-            conn.close()
-            os._exit(0)
+            break
+    if ("exit".lower() in data) or not data:
+        print()
+        print("[INFO] ---- Остановка сервера ----")
+        break
+conn.close()
