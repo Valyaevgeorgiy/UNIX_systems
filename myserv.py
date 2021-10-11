@@ -8,7 +8,7 @@ print("[INFO] ---- Запуск сервера ----")
 sock = socket.socket()
 serv_adr = ('', 9090)
 
-sock.bind(('', 9090))
+sock.bind(serv_adr)
 
 print(f"[INFO] ---- Начало прослушивания порта {serv_adr[1]} на localhost ----")
 
@@ -20,7 +20,7 @@ conn, adr = sock.accept()
 
 print("[INFO] ----", '\t Установлено соединение с IP', adr, "\t----")
 
-while True: 
+while True:
     while True:
         print("[INFO] ---- Приём данных от клиента ----")
 
