@@ -2,7 +2,7 @@ import os
 import socket
 import sys
 from threading import Thread
-from common import SocketMethods
+from upp_pack import SocketMethods
 
 sock = socket.socket()
 
