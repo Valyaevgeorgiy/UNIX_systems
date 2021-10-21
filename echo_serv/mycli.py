@@ -34,4 +34,5 @@ while True:
     print("[INFO] ---- Приём данных от сервера ----")
     print()
     print(data)
+    print()
 
