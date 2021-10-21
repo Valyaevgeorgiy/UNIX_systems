@@ -1,0 +1,15 @@
+INFO:root:Started on 127.0.1.1:9000
+INFO:root:Started on 127.0.1.1:9000
+INFO:root:Started on 127.0.1.1:9000
+INFO:root:Started on 127.0.1.1:9000
+INFO:root:Opening connection ('127.0.0.1', 42780) 
+INFO:root:Opening connection ('127.0.0.1', 42784) 
+INFO:root:Connection closed ('127.0.0.1', 42784)  - incorrect password
+INFO:root:Opening connection ('127.0.0.1', 42786) 
+INFO:root:Connection closed ('127.0.0.1', 42780)  - user exit
+INFO:root:Connection closed ('127.0.0.1', 42786)  - user exit
+INFO:root:Started on 127.0.1.1:9000
+INFO:root:Opening connection ('127.0.0.1', 43166) 
+INFO:root:Started on 127.0.1.1:9000
+INFO:root:Opening connection ('127.0.0.1', 40942) 
+INFO:root:Connection closed ('127.0.0.1', 40942)  - user exit
