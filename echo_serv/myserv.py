@@ -13,6 +13,7 @@ sock.bind(serv_adr)
 print(f"[INFO] ---- Начало прослушивания порта {serv_adr[1]} на localhost ----")
 
 sock.listen(1)
+
 print("[INFO] ---- Подключение клиента ----")
 print()
 
