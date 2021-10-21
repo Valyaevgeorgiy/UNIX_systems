@@ -3,7 +3,7 @@ import random
 import socket
 from threading import Thread
 import logging
-from common import COLORS, EMOJIS, EMOJIS_PATTERN, SocketMethods, Security
+from upp_pack import COLORS, EMOJIS, EMOJIS_PATTERN, SocketMethods, Security
 
 logging.basicConfig(filename='server_logs.log', level=logging.INFO)
 
