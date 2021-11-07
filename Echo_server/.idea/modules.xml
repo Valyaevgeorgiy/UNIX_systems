@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/echo_serv.iml" filepath="$PROJECT_DIR$/.idea/echo_serv.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Echo__Server.iml" filepath="$PROJECT_DIR$/.idea/Echo__Server.iml" />
     </modules>
   </component>
 </project>
