@@ -2,6 +2,20 @@
 
 Реализация клиент-серверной архитектуры с поддержкой многопоточности и параллельности.
 
+### Демонстрация работы программы:
+
+![image](https://user-images.githubusercontent.com/71630161/141160640-76f2c443-0273-4af8-8469-ad9d245f9123.png)
+
+![image](https://user-images.githubusercontent.com/71630161/141161300-89df5449-2eba-413a-87fd-47fb29dae495.png)
+
+Хранение данных пользователей и служебной информации в файлах users.json и logs/client.log , logs/server.log:
+
+![image](https://user-images.githubusercontent.com/71630161/141161640-12a016b6-05af-43e4-be9b-6872d5defedd.png)
+
+![image](https://user-images.githubusercontent.com/71630161/141161767-b1885858-5515-43d1-8165-3885717c1b6e.png)
+
+![image](https://user-images.githubusercontent.com/71630161/141161801-1e66f4c4-86b2-418e-a8a9-248f0b521f80.png)
+
 ---
 
 ### Контрольные вопросы на «Создание простого многопоточного сервера»
