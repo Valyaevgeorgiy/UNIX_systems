@@ -16,3 +16,5 @@
 5. Реализация базовых принципов [симметричного шифрования](https://github.com/Valyaevgeorgiy/UNIX_systems/tree/main/Encryption_methods/Symmetric_encryption) в простых практических примерах.
 
 6. Применение многопоточности в [параллельных](https://github.com/Valyaevgeorgiy/UNIX_systems/tree/main/Parallelism) математических вычислениях.
+
+7. Создание локального [web-сервера](https://github.com/Valyaevgeorgiy/UNIX_systems/tree/main/Web__Server) с интересными базовыми html-страницами и необычным JS-скриптом.
