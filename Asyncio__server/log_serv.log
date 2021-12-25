@@ -1,0 +1,26 @@
+INFO:root:Connect - ('127.0.0.1', 40794)
+ERROR:asyncio:Task exception was never retrieved
+future: <Task finished name='Task-4' coro=<listen() done, defined at asyn_server.py:50> exception=ConnectionResetError(104, 'Connection reset by peer')>
+Traceback (most recent call last):
+File "asyn_server.py", line 84, in listen
+msg = await checkmsg(reader)
+File "/home/georgiy/Asyncio__server/async_check_send.py", line 26, in checkmsg
+msg_len =(await reader.read(5)).decode()
+File "/usr/lib/python3.8/asyncio/streams.py", line 684, in read
+await self._wait_for_data('read')
+File "/usr/lib/python3.8/asyncio/streams.py", line 517, in _wait_for_data
+await self._waiter
+File "/usr/lib/python3.8/asyncio/selector_events.py", line 848, in _read_ready__data_received
+data = self._sock.recv(self.max_size)
+ConnectionResetError: [Errno 104] Connection reset by peer
+INFO:root:Connect - ('127.0.0.1', 40826)
+INFO:root:Connect - ('127.0.0.1', 40828)
+WARNING:asyncio:socket.send() raised exception.
+WARNING:asyncio:socket.send() raised exception.
+WARNING:asyncio:socket.send() raised exception.
+WARNING:asyncio:socket.send() raised exception.
+WARNING:asyncio:socket.send() raised exception.
+WARNING:asyncio:socket.send() raised exception.
+WARNING:asyncio:socket.send() raised exception.
+WARNING:asyncio:socket.send() raised exception.
+WARNING:asyncio:socket.send() raised exception.
