@@ -1,0 +1,66 @@
+2021-12-07 22:15:59,445 [INFO] is_available_port: Порт 9090 свободен
+2021-12-07 22:15:59,467 [INFO] main: [INFO] Старт Web-сервера localhost, порт: 9090...
+2021-12-07 22:16:14,401 [INFO] run: [INFO] | 127.0.0.1 | /index.html | 200
+2021-12-07 22:16:14,640 [INFO] run: [INFO] | 127.0.0.1 | /servers.jpg | 200
+2021-12-07 22:16:14,641 [INFO] run: [INFO] | 127.0.0.1 | /webs.jpg | 200
+2021-12-07 22:18:57,952 [INFO] is_available_port: Порт 9090 свободен
+2021-12-07 22:18:57,953 [INFO] main: [INFO] Старт Web-сервера localhost, порт: 9090...
+2021-12-07 22:19:04,201 [INFO] run: [INFO] | 127.0.0.1 | /index.html | 200
+2021-12-07 22:19:04,512 [INFO] run: [INFO] | 127.0.0.1 | /servers.jpg | 200
+2021-12-07 22:19:04,527 [INFO] run: [INFO] | 127.0.0.1 | /webs.jpg | 200
+2021-12-07 22:19:05,990 [INFO] run: [INFO] | 127.0.0.1 | /script.html | 200
+2021-12-07 22:19:17,572 [INFO] run: [INFO] | 127.0.0.1 | /script.html | 200
+2021-12-07 22:19:37,415 [INFO] is_available_port: Порт 9090 занят
+2021-12-07 22:19:37,416 [INFO] main: [INFO] Порт по умолчанию 9090 занят...
+2021-12-07 22:19:37,416 [INFO] is_available_port: Порт 9091 свободен
+2021-12-07 22:19:37,417 [INFO] main: [INFO] Старт Web-сервера localhost, порт: 9091...
+2021-12-07 22:19:52,939 [INFO] run: [INFO] | 127.0.0.1 | /index.html | 200
+2021-12-07 22:19:53,085 [INFO] run: [INFO] | 127.0.0.1 | /webs.jpg | 200
+2021-12-07 22:19:53,104 [INFO] run: [INFO] | 127.0.0.1 | /servers.jpg | 200
+2021-12-07 22:21:09,542 [INFO] is_available_port: Порт 9090 свободен
+2021-12-07 22:21:09,542 [INFO] main: [INFO] Старт Web-сервера localhost, порт: 9090...
+2021-12-07 22:21:18,297 [INFO] run: [INFO] | 127.0.0.1 | /index.html | 200
+2021-12-07 22:21:18,443 [INFO] run: [INFO] | 127.0.0.1 | /servers.jpg | 200
+2021-12-07 22:21:18,461 [INFO] run: [INFO] | 127.0.0.1 | /webs.jpg | 200
+2021-12-07 22:23:01,116 [INFO] run: [INFO] | 127.0.0.1 | /index.html | 200
+2021-12-07 22:23:01,178 [INFO] run: [INFO] | 127.0.0.1 | /servers.jpg | 200
+2021-12-07 22:23:01,181 [INFO] run: [INFO] | 127.0.0.1 | /webs.jpg | 200
+2021-12-07 22:23:04,385 [INFO] run: [INFO] | 127.0.0.1 | /script.html | 200
+2021-12-07 22:23:41,066 [INFO] run: [INFO] | 127.0.0.1 | /script.html | 200
+2021-12-07 22:23:42,151 [INFO] run: [INFO] | 127.0.0.1 | /script.html | 200
+2021-12-07 22:24:18,231 [INFO] run: [INFO] | 127.0.0.1 | /script.html | 200
+2021-12-07 22:25:20,745 [INFO] run: [INFO] | 127.0.0.1 | /script.html | 200
+2021-12-07 22:25:44,383 [INFO] run: [INFO] | 127.0.0.1 | /script.html | 200
+2021-12-07 22:25:45,360 [INFO] run: [INFO] | 127.0.0.1 | /script.html | 200
+2021-12-07 22:25:58,082 [INFO] run: [INFO] | 127.0.0.1 | /first.html | 200
+2021-12-07 22:26:00,752 [INFO] run: [INFO] | 127.0.0.1 | /second.html | 200
+2021-12-07 22:26:39,451 [INFO] run: [INFO] | 127.0.0.1 | /index.html | 200
+2021-12-07 22:26:39,497 [INFO] run: [INFO] | 127.0.0.1 | /servers.jpg | 200
+2021-12-07 22:26:39,500 [INFO] run: [INFO] | 127.0.0.1 | /webs.jpg | 200
+2021-12-07 22:26:41,138 [INFO] run: [INFO] | 127.0.0.1 | /script.html | 200
+2021-12-07 22:37:35,008 [INFO] run: [INFO] | 127.0.0.1 | /script.html | 200
+2021-12-07 22:50:37,218 [INFO] run: [INFO] | 127.0.0.1 | /script.html | 200
+2021-12-07 22:52:13,576 [INFO] run: [INFO] | 127.0.0.1 | /first.html | 200
+2021-12-07 22:52:16,436 [INFO] run: [INFO] | 127.0.0.1 | /second.html | 200
+2021-12-07 22:52:44,599 [INFO] run: [INFO] | 127.0.0.1 | /index.html | 200
+2021-12-07 22:52:44,652 [INFO] run: [INFO] | 127.0.0.1 | /servers.jpg | 200
+2021-12-07 22:52:44,655 [INFO] run: [INFO] | 127.0.0.1 | /webs.jpg | 200
+2021-12-07 22:58:38,832 [INFO] run: [INFO] | 127.0.0.1 | /index.html | 200
+2021-12-07 22:58:38,877 [INFO] run: [INFO] | 127.0.0.1 | /servers.jpg | 200
+2021-12-07 22:58:38,900 [INFO] run: [INFO] | 127.0.0.1 | /webs.jpg | 200
+2021-12-07 22:58:39,931 [INFO] run: [INFO] | 127.0.0.1 | /index.html | 200
+2021-12-07 22:58:40,006 [INFO] run: [INFO] | 127.0.0.1 | /servers.jpg | 200
+2021-12-07 22:58:40,009 [INFO] run: [INFO] | 127.0.0.1 | /webs.jpg | 200
+2021-12-07 23:01:38,811 [INFO] run: [INFO] | 127.0.0.1 | /index.html | 200
+2021-12-07 23:01:38,998 [INFO] run: [INFO] | 127.0.0.1 | /servers.jpg | 200
+2021-12-07 23:01:39,014 [INFO] run: [INFO] | 127.0.0.1 | /webs.jpg | 200
+2021-12-07 23:01:52,613 [INFO] is_available_port: Порт 9090 занят
+2021-12-07 23:01:52,614 [INFO] main: [INFO] Порт по умолчанию 9090 занят...
+2021-12-07 23:01:52,614 [INFO] is_available_port: Порт 9091 свободен
+2021-12-07 23:01:52,619 [INFO] main: [INFO] Старт Web-сервера localhost, порт: 9091...
+2021-12-07 23:03:03,716 [INFO] run: [INFO] | 127.0.0.1 | /index.html | 200
+2021-12-07 23:03:03,831 [INFO] run: [INFO] | 127.0.0.1 | /webs.jpg | 200
+2021-12-07 23:03:03,838 [INFO] run: [INFO] | 127.0.0.1 | /servers.jpg | 200
+2021-12-07 23:03:14,847 [INFO] run: [INFO] | 127.0.0.1 | /index.html | 200
+2021-12-07 23:03:14,917 [INFO] run: [INFO] | 127.0.0.1 | /servers.jpg | 200
+2021-12-07 23:03:14,923 [INFO] run: [INFO] | 127.0.0.1 | /webs.jpg | 200
