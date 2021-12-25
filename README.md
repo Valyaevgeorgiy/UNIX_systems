@@ -13,6 +13,6 @@
 
 4. Написание протоколов [ассиметричного шифрования](https://github.com/Valyaevgeorgiy/UNIX_systems/tree/main/Encryption_methods/Assymetric_encryption) в клиент-серверной архитектуре.
 
-5. Реализация базовых принципов [симметричного шифрования](https://github.com/Valyaevgeorgiy/UNIX_systems/tree/main/Encryption_methods/Symetric_encryption) в простых практических примерах.
+5. Реализация базовых принципов [симметричного шифрования](https://github.com/Valyaevgeorgiy/UNIX_systems/tree/main/Encryption_methods/Symmetric_encryption) в простых практических примерах.
 
 6. 
