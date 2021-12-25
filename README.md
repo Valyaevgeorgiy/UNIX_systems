@@ -5,7 +5,7 @@
 
 ## Список ссылок на создание серверных архитектур по UNIX
 
-1. Реализация [эхо-сервера](https://github.com/Valyaevgeorgiy/Server_python/tree/main/Echo_server) с регистрацией пользователя по паролю и имени.
+1. Реализация [эхо-сервера](https://github.com/Valyaevgeorgiy/Server_python/tree/main/Echo_server) с регистрацией пользователя.
 
 2. Реализация [многопоточного сервера](https://github.com/Valyaevgeorgiy/Server_python/tree/main/Thread_server) с использованием библиотеки Threading и регистрацией пользователя.
 
