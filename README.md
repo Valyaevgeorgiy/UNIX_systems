@@ -15,4 +15,4 @@
 
 5. Реализация базовых принципов [симметричного шифрования](https://github.com/Valyaevgeorgiy/UNIX_systems/tree/main/Encryption_methods/Symmetric_encryption) в простых практических примерах.
 
-6. 
+6. Применение многопоточности в [параллельных](https://github.com/Valyaevgeorgiy/UNIX_systems/tree/main/Parallelism) математических вычислениях.
