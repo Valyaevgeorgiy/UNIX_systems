@@ -2,9 +2,9 @@
 
 ## Работа Асимметричного шифрования (сервер+клиент)
 
-[«Асимметричное шифрование»](https://github.com/Valyaevgeorgiy/Coding_praktikum/tree/main/Encryption_methods/Assymetric_encryption)
+![image](https://user-images.githubusercontent.com/71630161/147387033-34b85f5f-bdf0-4c12-a4b7-98d12a3dbcd4.png)
 
-![img](https://github.com/bitcoineazy/Study_Practice/blob/main/images/asymmetric_encryption.jpg)
+![image](https://user-images.githubusercontent.com/71630161/147387038-d58f5e2a-733c-4ff5-bc14-3e7c73a64e62.png)
 
 
 ## Работа Симметричного шифрования
